@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-####李运辰  2020-01-04
+####李运辰  2021-01-04
 import requests
 from stylecloud import gen_stylecloud
 import jieba
